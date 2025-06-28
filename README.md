@@ -5,7 +5,7 @@ Airovo, upcoming future new-gen platform for Flight ticket booking website
 India’s next-gen flight booking website — built with clean HTML.
 
 ## 🔗 Live Site
-[Visit Airovo](https://yourusername.github.io/airovo/)
+[Visit Airovo](https://brain666-droid.github.io/Airovo/)
 
 ## 💡 Features
 - Pure HTML landing page
